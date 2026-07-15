@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,100:1a1a2e&height=160&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header" width="100%"/>
+</picture>
 
 # Sahil Mehta
 
@@ -12,11 +15,12 @@ Master of Business Analytics candidate at La Trobe University, with an interest 
 
 ### Skills
 
-**Analysis & Modeling:** Python (Pandas, scikit-learn), SQL, Statistical Analysis, Predictive Modeling
-**AI & Automation:** GPT-4o/GPT-4o-mini integration, LangChain, Prompt Engineering, RAG pipelines
-**Visualization & BI:** Tableau, Power BI, Excel (Advanced)
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-1a1a2e?style=plastic&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=plastic&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=plastic&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT--4o-16213e?style=plastic&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-16213e?style=plastic&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-16213e?style=plastic&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-0f3460?style=plastic&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-0f3460?style=plastic&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-0f3460?style=plastic&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-222831?style=plastic&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-222831?style=plastic&logo=jira&logoColor=white"/>
+
 **Domains:** Financial Risk Analysis, Employee Analytics, Sports/Performance Analytics, Sustainability Data
-**Tools:** Streamlit, Jupyter, Git, Jira
 
 ---
 
