@@ -15,7 +15,7 @@ Business Analyst & Analytics professional with a Master's in Business Analytics 
 
 | Role | Company | Period | Highlight |
 |---|---|---|---|
-| **Solution Specialist (IT Solutions)** | Probe CX | May 2026 — Current | Predictive modeling on support metrics; automated workflows via Power Platform |
+| **Solution Specialist ** | Probe CX | May 2026 — Current | Predictive modeling on support metrics; automated workflows via Power Platform |
 | **Database Integrity Technician** | Flexikitch | Jul 2025 — Oct 2025 | Built GPT-powered RAG tool; scaled processing from ~2 to ~300 products/hour |
 | Customer Service Team Member | Woolworths CFC | Aug 2024 — Current | Stock handling & inventory accuracy in high-volume operations |
 | Industry Experience Program | Practera | Jun 2024 — Sep 2024 | Led competitor/pricing analysis for a private therapy practice |
