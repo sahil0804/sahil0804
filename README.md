@@ -14,7 +14,7 @@ Business Analyst & Analytics professional with a Master's in Business Analytics 
 
 | Role | Company | Period | Highlight |
 |---|---|---|---|
-| **Solution Specialist (IT Solutions)** | Probe CX | May 2026 — Current | Predictive modeling on support metrics; automated workflows via Power Platform |
+| **Solution Specialist** | Probe CX | May 2026 — Current | Predictive modeling on support metrics; automated workflows via Power Platform |
 | **Database Integrity Technician** | Flexikitch | Jul 2025 — Oct 2025 | Built GPT-powered RAG tool; scaled processing from ~2 to ~300 products/hour |
 | Customer Service Team Member | Woolworths CFC | Aug 2024 — Current | Stock handling & inventory accuracy in high-volume operations |
 | Industry Experience Program | Practera | Jun 2024 — Sep 2024 | Led competitor/pricing analysis for a private therapy practice |
@@ -29,8 +29,8 @@ Business Analyst & Analytics professional with a Master's in Business Analytics 
 
 | Degree | Institution | Year |
 |---|---|---|
-| Master of Business Analytics (71.33% avg) | La Trobe University, Melbourne | 2025 |
-| Bachelor of Commerce Hons. — Accounting (3.06/4 CGPA) | NMIMS University, Mumbai | 2023 |
+| Master of Business Analytics | La Trobe University, Melbourne | 2025 |
+| Bachelor of Commerce Hons. — Accounting | NMIMS University, Mumbai | 2023 |
 
 ---
 
