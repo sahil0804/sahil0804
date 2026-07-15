@@ -47,4 +47,10 @@ Published research analyzing the impact of COVID-19 on the top 10 pharmaceutical
 
 ---
 
+### Beyond the Data
+
+Cricket and volleyball on the field, chess and Valorant off it — competitive in most things I do.
+
+---
+
 <sub>Open to opportunities in business analytics, data analysis, and financial risk roles.</sub>
