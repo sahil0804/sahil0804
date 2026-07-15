@@ -1,0 +1,63 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d17"/>
+      <stop offset="55%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#3a6ea5" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#5fa8d3" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5fa8d3"/>
+      <stop offset="100%" stop-color="#e8c07d"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+
+  <!-- Ascending bar chart silhouette, right side -->
+  <g opacity="0.9">
+    <rect x="760" y="220" width="34" height="60" fill="url(#bar)"/>
+    <rect x="806" y="195" width="34" height="85" fill="url(#bar)"/>
+    <rect x="852" y="160" width="34" height="120" fill="url(#bar)"/>
+    <rect x="898" y="130" width="34" height="150" fill="url(#bar)"/>
+    <rect x="944" y="95"  width="34" height="185" fill="url(#bar)"/>
+    <rect x="990" y="60"  width="34" height="220" fill="url(#bar)"/>
+    <rect x="1036" y="35" width="34" height="245" fill="url(#bar)"/>
+    <rect x="1082" y="10" width="34" height="270" fill="url(#bar)"/>
+  </g>
+
+  <!-- Trend line with data-point nodes, arcing over the bars -->
+  <polyline points="760,240 830,205 900,175 970,120 1040,80 1116,40"
+            fill="none" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+  <g fill="#e8c07d">
+    <circle cx="760" cy="240" r="4"/>
+    <circle cx="830" cy="205" r="4"/>
+    <circle cx="900" cy="175" r="4"/>
+    <circle cx="970" cy="120" r="4"/>
+    <circle cx="1040" cy="80" r="4"/>
+    <circle cx="1116" cy="40" r="5"/>
+  </g>
+
+  <!-- Thin connecting grid lines for depth -->
+  <g stroke="#ffffff" stroke-opacity="0.06" stroke-width="1">
+    <line x1="740" y1="60" x2="1160" y2="60"/>
+    <line x1="740" y1="140" x2="1160" y2="140"/>
+    <line x1="740" y1="220" x2="1160" y2="220"/>
+  </g>
+
+  <!-- Name and tagline, left aligned -->
+  <text x="70" y="140" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#f5f5f7" letter-spacing="1">
+    SAHIL MEHTA
+  </text>
+  <rect x="72" y="160" width="86" height="4" fill="#e8c07d"/>
+  <text x="70" y="196" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#b8b8c8" letter-spacing="2">
+    BUSINESS ANALYTICS · DATA &amp; RISK ANALYSIS
+  </text>
+</svg>
