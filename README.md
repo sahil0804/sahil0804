@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sahil0804/sahil0804/main/assets/banner.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/sahil0804/sahil0804@main/assets/banner.svg" width="100%"/>
 
 ## Sahil Sunil Mehta
 
