@@ -30,8 +30,8 @@ Business Analyst & Analytics professional with a Master's in Business Analytics 
 
 | Degree | Institution | Year |
 |---|---|---|
-| Master of Business Analytics (71.33% avg) | La Trobe University, Melbourne | 2025 |
-| Bachelor of Commerce Hons. — Accounting (3.06/4 CGPA) | NMIMS University, Mumbai | 2023 |
+| Master of Business Analytics | La Trobe University, Melbourne | 2025 |
+| Bachelor of Commerce Hons. — Accounting | NMIMS University, Mumbai | 2023 |
 
 ---
 
