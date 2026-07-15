@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#16213e"/>
+      <stop offset="50%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0d0d17"/>
+    </linearGradient>
+    <linearGradient id="lineGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e8c07d"/>
+      <stop offset="100%" stop-color="#5fa8d3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="100" fill="url(#bgFooter)"/>
+
+  <polyline points="60,60 200,45 340,65 480,30 620,50 760,20 900,40 1040,25 1140,45"
+            fill="none" stroke="url(#lineGradFooter)" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+
+  <text x="600" y="58" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#b8b8c8" letter-spacing="1.5" text-anchor="middle">
+    THANKS FOR STOPPING BY
+  </text>
+</svg>
