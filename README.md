@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Sahil%20Mehta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Business%20Analytics%20%7C%20Data%20%26%20Risk%20Analysis&descSize=15&descAlignY=58&descColor=b8b8b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header" width="100%"/>
+
+# Sahil Mehta
+
+**Business Analytics | Data & Risk Analysis**
 
 Master of Business Analytics candidate at La Trobe University, with an interest in financial risk analysis, fintech, and applied data analytics. Background in building end-to-end analyses — from data cleaning and modeling through to dashboards and AI-driven tools that support business decisions.
 
